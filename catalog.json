@@ -1,0 +1,502 @@
+[
+  {
+    "name": "OPQ32r",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32r/",
+    "description": "The OPQ32r (Occupational Personality Questionnaire) is a personality assessment that measures 32 dimensions of personality relevant to workplace performance. It predicts behavior in key areas like leading and deciding, supporting and cooperating, interacting and presenting, analyzing and interpreting, creating and conceptualizing, organizing and executing, and adapting and coping.",
+    "test_types": ["P"],
+    "job_levels": ["General Population", "Graduate", "Manager", "Mid-Professional", "Professional Individual Contributor", "Director", "Executive"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["personality", "leadership", "behavior", "OPQ", "workplace", "competency", "soft skills", "interpersonal", "management"]
+  },
+  {
+    "name": "Motivational Questionnaire (MQ)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mq/",
+    "description": "Identifies what motivates and engages candidates in the workplace. Explores 18 dimensions of motivation and energy to help predict employee engagement and retention.",
+    "test_types": ["P"],
+    "job_levels": ["General Population", "Graduate", "Manager", "Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["motivation", "engagement", "personality", "retention", "behavior", "values", "drive"]
+  },
+  {
+    "name": "Verify Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-reasoning/",
+    "description": "Measures numerical reasoning ability by presenting data in tables and graphs that candidates must interpret to answer questions. Assesses ability to work with numbers, interpret statistics, and draw accurate conclusions.",
+    "test_types": ["A"],
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor", "Manager"],
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "keywords": ["numerical", "quantitative", "math", "data", "analytics", "reasoning", "cognitive", "ability", "finance", "statistics"]
+  },
+  {
+    "name": "Verify Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-reasoning/",
+    "description": "Measures verbal reasoning ability. Candidates read passages and decide whether statements are true, false, or cannot be determined. Assesses reading comprehension and logical reasoning from text.",
+    "test_types": ["A"],
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor", "Manager"],
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "keywords": ["verbal", "reading", "comprehension", "language", "reasoning", "cognitive", "ability", "communication"]
+  },
+  {
+    "name": "Verify Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-inductive-reasoning/",
+    "description": "Measures inductive reasoning by asking candidates to identify rules in sequences of shapes and figures. Assesses abstract thinking and pattern recognition.",
+    "test_types": ["A"],
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor", "Manager"],
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "keywords": ["inductive", "abstract", "logical", "reasoning", "patterns", "cognitive", "ability", "problem-solving"]
+  },
+  {
+    "name": "Verify Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/",
+    "description": "Measures deductive reasoning ability by presenting logical statements from which candidates draw conclusions. Tests analytical thinking and structured logic.",
+    "test_types": ["A"],
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "keywords": ["deductive", "logical", "reasoning", "analytical", "cognitive", "ability"]
+  },
+  {
+    "name": "Verify Interactive - Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-numerical-reasoning/",
+    "description": "Mobile-first adaptive numerical reasoning test. Interactive format with data interpretation tasks optimized for all devices.",
+    "test_types": ["A"],
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor", "Manager"],
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "keywords": ["numerical", "quantitative", "math", "data", "interactive", "mobile", "reasoning", "cognitive"]
+  },
+  {
+    "name": "Verify Interactive - Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-verbal-reasoning/",
+    "description": "Mobile-first adaptive verbal reasoning test in an interactive format. Measures reading comprehension and verbal reasoning.",
+    "test_types": ["A"],
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "keywords": ["verbal", "reading", "comprehension", "interactive", "mobile", "reasoning", "cognitive"]
+  },
+  {
+    "name": "Verify Interactive - Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-deductive-reasoning/",
+    "description": "Mobile-first adaptive deductive reasoning test in an interactive engaging format.",
+    "test_types": ["A"],
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "keywords": ["deductive", "logical", "reasoning", "interactive", "mobile", "cognitive"]
+  },
+  {
+    "name": "Verify G+ (General Cognitive Ability)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-g-plus/",
+    "description": "Adaptive general cognitive ability test measuring verbal, numerical, and inductive reasoning in a short format. Ideal for screening large candidate pools quickly.",
+    "test_types": ["A"],
+    "job_levels": ["Entry-Level", "Graduate", "General Population", "Mid-Professional"],
+    "remote_testing": true,
+    "adaptive_irt": true,
+    "keywords": ["cognitive", "ability", "general", "reasoning", "adaptive", "screening", "intelligence", "graduate"]
+  },
+  {
+    "name": "General Ability Test (GAT)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-ability-test/",
+    "description": "Measures overall cognitive ability across verbal, numerical, and abstract reasoning. Suitable for high-volume hiring at entry to mid-level.",
+    "test_types": ["A"],
+    "job_levels": ["Entry-Level", "Graduate", "General Population"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["cognitive", "ability", "general", "verbal", "numerical", "abstract", "reasoning", "entry-level", "screening"]
+  },
+  {
+    "name": "Numerical Ability Test (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/numerical-ability-entry-level/",
+    "description": "Basic numerical ability assessment for entry-level and clerical roles. Tests arithmetic, percentages, ratios, and basic data interpretation.",
+    "test_types": ["A"],
+    "job_levels": ["Entry-Level", "General Population"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["numerical", "arithmetic", "entry-level", "clerical", "basic math", "screening"]
+  },
+  {
+    "name": "Verbal Ability Test (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verbal-ability-entry-level/",
+    "description": "Basic verbal ability test for entry-level roles, assessing vocabulary, word relationships, and basic reading comprehension.",
+    "test_types": ["A"],
+    "job_levels": ["Entry-Level", "General Population"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["verbal", "vocabulary", "entry-level", "clerical", "communication", "screening"]
+  },
+  {
+    "name": "Diagrammatic Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/diagrammatic-reasoning/",
+    "description": "Measures ability to follow complex diagrams and logical rules. Relevant for IT, systems analysis, and engineering roles requiring process-oriented thinking.",
+    "test_types": ["A"],
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["diagrammatic", "logic", "IT", "systems", "engineering", "process", "flowchart", "reasoning"]
+  },
+  {
+    "name": "Mechanical Comprehension Test (MCT2)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-comprehension-test-mct2/",
+    "description": "Measures understanding of mechanical and physical principles including forces, gears, levers, and fluid mechanics. Appropriate for technical and engineering roles.",
+    "test_types": ["A"],
+    "job_levels": ["Entry-Level", "Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["mechanical", "engineering", "technical", "physics", "manufacturing", "maintenance", "industrial"]
+  },
+  {
+    "name": "Spatial Reasoning Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/spatial-reasoning-test/",
+    "description": "Measures ability to visualize and manipulate objects in two and three dimensions. Relevant for engineering, design, and technical roles.",
+    "test_types": ["A"],
+    "job_levels": ["Entry-Level", "Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["spatial", "engineering", "design", "technical", "visualization", "3D", "architecture"]
+  },
+  {
+    "name": "Calculation Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/calculation-test/",
+    "description": "Measures speed and accuracy in basic calculations including addition, subtraction, multiplication, division, and percentages. Suited for clerical and banking roles.",
+    "test_types": ["A"],
+    "job_levels": ["Entry-Level", "General Population"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["calculation", "arithmetic", "speed", "accuracy", "clerical", "banking", "teller", "finance"]
+  },
+  {
+    "name": "General Reasoning Battery (GRB)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-reasoning-battery/",
+    "description": "Battery of reasoning tests covering verbal, numerical, and abstract reasoning. Used for graduate and professional hiring across multiple industries.",
+    "test_types": ["A"],
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["reasoning", "cognitive", "graduate", "verbal", "numerical", "abstract", "battery"]
+  },
+  {
+    "name": "Financial Professional (FP) Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional-numerical/",
+    "description": "Advanced numerical reasoning test for financial services professionals. Tests financial data interpretation, ratio analysis, and complex numerical problem solving.",
+    "test_types": ["A"],
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor", "Manager"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["finance", "banking", "numerical", "financial services", "analyst", "quantitative", "investment"]
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "description": "Multi-choice knowledge test covering Java 8 concepts including lambda expressions, streams, functional interfaces, date-time API, and core OOP principles.",
+    "test_types": ["K"],
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["java", "java 8", "programming", "developer", "software", "OOP", "backend", "coding", "technical"]
+  },
+  {
+    "name": "Core Java (Advanced Level)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+    "description": "Advanced Java knowledge test covering multithreading, collections, generics, JVM internals, design patterns, and advanced OOP concepts.",
+    "test_types": ["K"],
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["java", "advanced", "programming", "developer", "software", "JVM", "multithreading", "backend", "senior"]
+  },
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
+    "description": "Multi-choice test measuring Python programming knowledge including syntax, data structures, OOP, file handling, and standard library usage.",
+    "test_types": ["K"],
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["python", "programming", "developer", "software", "data science", "machine learning", "backend", "scripting"]
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-new/",
+    "description": "Multi-choice test measuring knowledge of SQL queries, data manipulation, joins, aggregation, and transaction processing.",
+    "test_types": ["K"],
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor", "Entry-Level"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["sql", "database", "queries", "data", "relational", "backend", "analytics", "reporting"]
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+    "description": "Measures JavaScript knowledge including ES6+, DOM manipulation, asynchronous programming, closures, prototypal inheritance, and modern JS practices.",
+    "test_types": ["K"],
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["javascript", "js", "frontend", "web", "developer", "node", "react", "programming", "coding"]
+  },
+  {
+    "name": "React (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/react-new/",
+    "description": "Measures knowledge of React framework, including components, hooks, state management, lifecycle methods, and modern React patterns.",
+    "test_types": ["K"],
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["react", "frontend", "javascript", "web", "developer", "ui", "component", "hooks"]
+  },
+  {
+    "name": "Spring (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/spring-new/",
+    "description": "Multi-choice test measuring knowledge of Spring core, AOP, IOC container, Spring Boot, and transactions.",
+    "test_types": ["K"],
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["spring", "java", "spring boot", "backend", "microservices", "enterprise", "developer"]
+  },
+  {
+    "name": ".NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/dot-net-new/",
+    "description": "Measures knowledge of .NET framework including C#, ASP.NET, CLR, LINQ, and .NET core concepts.",
+    "test_types": ["K"],
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": [".net", "c#", "csharp", "asp.net", "microsoft", "developer", "backend", "windows"]
+  },
+  {
+    "name": "C++ (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-plus-plus-new/",
+    "description": "Measures C++ programming knowledge including memory management, templates, STL, OOP principles, and modern C++ features.",
+    "test_types": ["K"],
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["c++", "cpp", "programming", "developer", "systems", "embedded", "software engineering"]
+  },
+  {
+    "name": "Manual Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+    "description": "Multi-choice test measuring knowledge of the software testing life cycle, testing tools and techniques, design of test cases, and generation of test reports.",
+    "test_types": ["K"],
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["testing", "qa", "quality assurance", "test cases", "software testing", "SDLC", "bugs"]
+  },
+  {
+    "name": "Automata - Fix (Coding Simulation)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix/",
+    "description": "A coding simulation where candidates debug and fix broken code. Assesses practical coding ability across multiple languages in a real IDE environment.",
+    "test_types": ["S"],
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor", "Graduate"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["coding", "debugging", "programming", "simulation", "developer", "software engineer", "hands-on", "java", "python"]
+  },
+  {
+    "name": "Automata - Pro (Coding Simulation)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-pro/",
+    "description": "Advanced coding simulation for experienced developers. Tests practical programming ability through real coding tasks in an IDE environment.",
+    "test_types": ["S"],
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["coding", "programming", "simulation", "developer", "software engineer", "advanced", "hands-on", "senior"]
+  },
+  {
+    "name": "MS Excel (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-excel-new/",
+    "description": "Multi-choice test measuring ability to use MS Excel to maintain, organize, analyze, and present numeric data. Covers formulas, functions, pivot tables, and charts.",
+    "test_types": ["K"],
+    "job_levels": ["Entry-Level", "Graduate", "Manager", "Mid-Professional", "Professional Individual Contributor", "Supervisor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["excel", "spreadsheet", "microsoft", "data", "office", "clerical", "administrative", "analyst", "finance"]
+  },
+  {
+    "name": "MS Word (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-word-new/",
+    "description": "Measures ability to create, format, and manage documents in Microsoft Word, including formatting, mail merge, and document organization.",
+    "test_types": ["K"],
+    "job_levels": ["Entry-Level", "General Population", "Mid-Professional"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["word", "microsoft", "document", "office", "clerical", "administrative", "writing"]
+  },
+  {
+    "name": "Data Entry Speed and Accuracy",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-speed-and-accuracy/",
+    "description": "Measures typing speed and accuracy for data entry tasks. Used for administrative, clerical, and back-office roles.",
+    "test_types": ["S"],
+    "job_levels": ["Entry-Level", "General Population"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["data entry", "typing", "accuracy", "clerical", "administrative", "back-office", "speed"]
+  },
+  {
+    "name": "Workplace English Language Test (WELT)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-english-language-test/",
+    "description": "Assesses English language proficiency in workplace contexts including listening, reading, and language use. Suitable for BPO, customer service, and global roles.",
+    "test_types": ["K"],
+    "job_levels": ["Entry-Level", "General Population", "Mid-Professional"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["english", "language", "communication", "BPO", "customer service", "writing", "reading", "listening"]
+  },
+  {
+    "name": "Occupational Personality Questionnaire 32 (OPQ32)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32/",
+    "description": "Full 32-scale personality questionnaire measuring work-relevant behavioral preferences across relationships, thinking styles, and feelings and emotions. The global standard in personality assessment.",
+    "test_types": ["P"],
+    "job_levels": ["General Population", "Graduate", "Manager", "Mid-Professional", "Professional Individual Contributor", "Director", "Executive"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["personality", "OPQ", "leadership", "behavior", "workplace", "competency", "soft skills", "interpersonal", "management", "hiring", "development"]
+  },
+  {
+    "name": "Global Scales Assessment (GSA)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-scales-assessment/",
+    "description": "A shorter personality assessment based on OPQ scales, measuring key personality dimensions relevant to workplace performance. Good for volume hiring.",
+    "test_types": ["P"],
+    "job_levels": ["General Population", "Entry-Level", "Graduate", "Mid-Professional"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["personality", "GSA", "behavior", "workplace", "short", "quick screen", "soft skills", "volume hiring"]
+  },
+  {
+    "name": "ADEPT-15 Personality Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/adept-15/",
+    "description": "Measures 15 personality dimensions with strong predictive validity for workplace performance. Based on a model aligned with the Big Five frameworks.",
+    "test_types": ["P"],
+    "job_levels": ["General Population", "Entry-Level", "Graduate", "Mid-Professional"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["personality", "ADEPT", "behavior", "traits", "Big Five", "workplace", "screening"]
+  },
+  {
+    "name": "Sales Achievement Predictor",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-achievement-predictor/",
+    "description": "Personality-based assessment predicting success in sales roles. Measures traits aligned with high sales performance such as resilience, drive, persuasiveness, and customer focus.",
+    "test_types": ["P"],
+    "job_levels": ["Entry-Level", "Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["sales", "personality", "persuasion", "resilience", "customer", "commercial", "revenue"]
+  },
+  {
+    "name": "Customer Contact Styles Questionnaire (CCSQ)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-contact-styles-questionnaire/",
+    "description": "Personality assessment measuring traits relevant to customer-facing roles. Assesses service orientation, empathy, communication style, and resilience.",
+    "test_types": ["P"],
+    "job_levels": ["Entry-Level", "General Population", "Supervisor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["customer service", "contact center", "personality", "service orientation", "empathy", "communication"]
+  },
+  {
+    "name": "Personnel Reaction Blank (PRB)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/personnel-reaction-blank/",
+    "description": "Measures integrity and dependability related to counterproductive work behaviors. Predicts reliability, honesty, and absence of misconduct.",
+    "test_types": ["P"],
+    "job_levels": ["Entry-Level", "General Population"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["integrity", "dependability", "reliability", "honesty", "counterproductive", "entry-level", "screening"]
+  },
+  {
+    "name": "Personality-Based Emotional Intelligence",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/personality-based-ei/",
+    "description": "Measures emotional intelligence dimensions including self-awareness, empathy, emotional regulation, and social skills relevant to leadership and collaborative roles.",
+    "test_types": ["P"],
+    "job_levels": ["Manager", "Director", "Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["emotional intelligence", "EI", "EQ", "empathy", "leadership", "self-awareness", "social skills", "management"]
+  },
+  {
+    "name": "Situational Judgment Test for Customer Service",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-scenario/",
+    "description": "Scenario-based assessment measuring judgment in customer service situations. Candidates select the best response to realistic customer service scenarios.",
+    "test_types": ["S"],
+    "job_levels": ["Entry-Level", "General Population", "Supervisor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["customer service", "situational judgment", "SJT", "contact center", "retail", "behavior", "service", "customer experience"]
+  },
+  {
+    "name": "SHL Agile Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-simulation/",
+    "description": "Work simulation measuring ability to apply agile principles in realistic project scenarios. Tests backlog management, sprint planning, and cross-functional collaboration.",
+    "test_types": ["S"],
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor", "Manager"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["agile", "scrum", "project management", "software", "simulation", "collaboration", "developer", "product owner"]
+  },
+  {
+    "name": "Workplace Safety - Individual 7.1 (Americas)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-individual-7-1-solution/",
+    "description": "Measures behaviors and experiences underlying safe workplace performance for entry-level positions in manufacturing, industrial, and operational environments.",
+    "test_types": ["B"],
+    "job_levels": ["Entry-Level", "General Population"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["safety", "workplace safety", "manufacturing", "industrial", "operations", "entry-level", "behavioral"]
+  },
+  {
+    "name": "Numerical Reasoning (SHL Manager Level)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/numerical-reasoning-shl-manager/",
+    "description": "Measures numerical reasoning ability appropriate for managerial roles. Involves interpreting complex data, financial reports, and charts.",
+    "test_types": ["A"],
+    "job_levels": ["Manager", "Director", "Mid-Professional"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["numerical", "manager", "finance", "data", "analytical", "reasoning", "leadership"]
+  },
+  {
+    "name": "Verbal Reasoning (SHL Manager Level)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verbal-reasoning-shl-manager/",
+    "description": "Measures verbal reasoning ability appropriate for managerial roles, including comprehension of complex written materials and logical conclusions.",
+    "test_types": ["A"],
+    "job_levels": ["Manager", "Director", "Mid-Professional"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["verbal", "manager", "communication", "reasoning", "leadership", "comprehension"]
+  },
+  {
+    "name": "Graduate MR1 - Checking",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-mr1-checking/",
+    "description": "Measures ability to check data quickly and accurately. Suitable for clerical and administrative roles requiring attention to detail.",
+    "test_types": ["A"],
+    "job_levels": ["Entry-Level", "Graduate", "General Population"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["checking", "accuracy", "attention to detail", "clerical", "administrative", "data entry"]
+  },
+  {
+    "name": "Search Engine Optimization (SEO)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/search-engine-optimization-new/",
+    "description": "Tests knowledge of SEO principles, keyword research, on-page and off-page optimization, technical SEO, and analytics.",
+    "test_types": ["K"],
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["SEO", "digital marketing", "marketing", "search", "google", "analytics", "content"]
+  },
+  {
+    "name": "Universal Competency Report (UCR)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-report/",
+    "description": "Report derived from OPQ32 scores mapping personality to the Universal Competency Framework (UCF). Provides competency-based interpretation for selection and development.",
+    "test_types": ["P"],
+    "job_levels": ["Manager", "Director", "Executive", "Mid-Professional"],
+    "remote_testing": true,
+    "adaptive_irt": false,
+    "keywords": ["competency", "OPQ", "leadership", "UCF", "development", "management", "personality", "report"]
+  }
+]
